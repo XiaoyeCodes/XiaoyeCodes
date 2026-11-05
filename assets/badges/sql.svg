@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="40" viewBox="0 0 152 40" role="img" aria-labelledby="badge-sql-title">
+  <title id="badge-sql-title">SQL</title>
+  <style>
+    .surface { fill: #f6f8fa; stroke: #d1d9e0; }
+    .label { fill: #24292f; }
+    .icon, .tile { color: #7651B7; fill: #7651B7; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #161b22; stroke: #30363d; }
+      .label { fill: #e6edf3; }
+      .icon, .tile { color: #C4B5FD; fill: #C4B5FD; }
+    }
+  </style>
+  <rect class="surface" x=".5" y=".5" width="151" height="39" rx="9"/>
+  <rect class="tile" x="10" y="8" width="24" height="24" rx="7" opacity=".1"/>
+  <g class="icon" transform="translate(13 11) scale(.75)"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="7.5" ry="3"/><path d="M4.5 5v14c0 1.65 3.36 3 7.5 3s7.5-1.35 7.5-3V5M4.5 12c0 1.65 3.36 3 7.5 3s7.5-1.35 7.5-3"/></g></g>
+  <text class="label" x="44" y="24.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600">SQL</text>
+</svg>
+
