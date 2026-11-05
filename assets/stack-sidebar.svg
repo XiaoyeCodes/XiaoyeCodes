@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="246" viewBox="0 0 320 246" role="img" aria-labelledby="sidebar-title sidebar-description">
   <title id="sidebar-title">技术栈</title>
   <desc id="sidebar-description">Claude Code, Codex, C++, Qt, Python, SQL, LangChain, LangGraph. Two columns of matching badges.</desc>
+<g id="balanced-badge-group" transform="translate(14.5 12.7) scale(.9)">
 <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="140" height="56" viewBox="0 0 140 56" role="img" aria-labelledby="badge-claude-code-title">
   <title id="badge-claude-code-title">Claude Code</title>
   <style>
@@ -137,4 +138,5 @@
   <g class="sidebar-langgraph-icon" transform="translate(12 16) scale(1)"><path d="M5 19H10A5 5 0 115 14ZM19 14A5 5 0 1114 19H19ZM10 5A5 5 0 105 10V5ZM19 5V10A5 5 0 1014 5Z"/></g>
   <text class="sidebar-langgraph-label" x="47" y="33" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">LangGraph</text>
 </svg>
+</g>
 </svg>
