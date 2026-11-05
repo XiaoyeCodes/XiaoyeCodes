@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoyeCodes/XiaoyeCodes/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoyeCodes/XiaoyeCodes/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="贪吃蛇吃掉我的 GitHub 贡献方块" src="https://raw.githubusercontent.com/XiaoyeCodes/XiaoyeCodes/output/github-contribution-grid-snake.svg?v=1" width="100%" />
+</picture>
+
