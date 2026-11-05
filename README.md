@@ -1,6 +1,6 @@
 <h2 align="center">小叶 · XiaoyeCodes</h2>
 
-<img align="left" src="assets/stack-sidebar.svg?v=3" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="320" height="246" />
+<img align="left" src="https://raw.githubusercontent.com/XiaoyeCodes/XiaoyeCodes/18ef20d3ee3a93c73bde2854565e8e23f8aa5e0c/assets/stack-sidebar.svg?v=4" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="320" height="246" />
 
 <p align="center">
   <br />
