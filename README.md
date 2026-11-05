@@ -1,8 +1,9 @@
 <h2 align="center">小叶 · XiaoyeCodes</h2>
 
-<img align="left" src="assets/stack-sidebar.svg?v=1" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="264" height="216" />
+<img align="left" src="assets/stack-sidebar.svg?v=2" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="320" height="200" />
 
 <p align="center">
+  <br />
   <strong>全栈开发者 · AI 应用构建者 · 美股市场投资者</strong>
 </p>
 
