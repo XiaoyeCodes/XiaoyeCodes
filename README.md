@@ -1,6 +1,6 @@
 <h2 align="center">小叶 · XiaoyeCodes</h2>
 
-<img align="left" src="assets/stack-sidebar.svg?v=2" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="320" height="200" />
+<img align="left" src="assets/stack-sidebar.svg?v=3" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="320" height="246" />
 
 <p align="center">
   <br />
@@ -18,7 +18,7 @@
   探索 AI 在市场研究、知识管理和业务自动化中的应用。
 </p>
 
-<br clear="all" />
+<br />
 
 <p align="right">
   <strong>微信：</strong><code>Suolalis</code>
