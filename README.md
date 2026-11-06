@@ -1,4 +1,4 @@
-<h2 align="center">你好👋，我是XiaoYe，喜欢利用ai来打造一些有趣的项目</h2>
+<h2 align="center">HELLO👋,I am Xiaoye</h2>
 
 <img align="left" src="assets/stack-sidebar-v5.svg?v=1" alt="技术栈：Claude Code、Codex、C++、Qt、Python、SQL、LangChain、LangGraph" width="320" height="246" />
 
