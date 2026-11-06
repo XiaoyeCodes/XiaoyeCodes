@@ -4,7 +4,7 @@
 
 <p align="center">
   <br />
-  <strong>全栈开发者 · AI 应用构建者 · 美股市场投资者</strong>
+  <strong>全栈开发者 · AI 应用构建者</strong>
 </p>
 
 <p align="center">
