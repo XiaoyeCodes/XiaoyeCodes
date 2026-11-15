@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">🐍 贡献贪吃蛇</h3>
+<h3 align="center"></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoyeCodes/XiaoyeCodes/output/github-contribution-grid-snake-dark.svg?v=1" />
